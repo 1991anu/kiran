@@ -1,0 +1,50 @@
+.main{
+    height:500px;
+    width:200px;
+}
+    .image{
+        width:400px;
+        height:150px;
+        
+        display: flex;
+        
+        
+        
+        
+        
+}
+.book{
+    background-image: linear-gradient( to right,skyblue,yellow,pink);
+    height: 100px;
+    width: 150px;
+    text-align: center;
+}
+.pen{
+    background-image: linear-gradient(to top left,yellow,blue,orange);
+
+    height: 100px;
+    width:200px;
+}
+    .mobile{
+       
+         background-image: linear-gradient(to top left,yellow,blue,orange);
+         height: 100px;
+         width:200px;
+
+    }
+
+
+.one{
+    background-image: radial-gradient( ellipse,red,pink,skyblue);
+    height: 100px;
+    width:150px;
+    text-align:center;
+    
+}
+.two{
+    background-image: radial-gradient(circle,yellow,blue,pink);
+    height:100px;
+    width:150px;
+    text-align: center;
+
+}

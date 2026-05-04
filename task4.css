@@ -1,0 +1,25 @@
+h1{
+    color:blue;
+}
+button:hover{
+    background-color: greenyellow; 
+    height: 100px;
+    width: 100px;
+    
+    
+
+}
+b{
+    color:orange;
+}
+img{
+    height:600px;
+    width: 1200px;
+    margin-left: 60px;
+
+    
+}
+.aa{
+    text-align: center;
+    
+}

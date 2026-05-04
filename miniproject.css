@@ -1,0 +1,42 @@
+
+h1{
+    
+    text-align: center;
+    color:white;
+}
+.main-container{
+    background:color-white;
+    
+}
+.image{
+   background-image: url("image 4.png");
+   font-size: 20px;
+   background-size:cover;
+   width: 1000px;
+   height: 700px;
+     
+    }
+    .plant{
+        text-align: center;
+        color-black;
+        
+    }
+    .style{
+        text-align: center;
+       color:black;
+    }
+    button{
+        text-align:center;
+        height: 250;
+        weidth:250;
+        background-color: yellow;
+
+    }
+    a{
+    color:black;
+    p{
+        text-align: center;
+
+     
+     
+    

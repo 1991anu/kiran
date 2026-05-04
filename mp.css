@@ -1,0 +1,27 @@
+ 
+
+.image{
+    background-image: url(image\ 4.png);
+    height: 700px;
+    width: 300px;
+    background-repeat: no-repeat;
+    
+    
+    
+}
+.one{
+    border:solid;
+        border-color: green;
+        color:white;
+        padding: 20px;
+        position: relative;
+        top: 350px;
+        bottom:300px;
+        width:150px;
+        left:20px;
+        right: 20px;
+        background:no-repeat;
+        
+        
+
+    }

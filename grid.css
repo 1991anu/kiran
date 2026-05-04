@@ -1,0 +1,59 @@
+.boll{
+background-color: aqua;
+height:100px;
+} 
+
+
+.anu{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas:"header header header"
+    "footer footer footer"
+    "main-sec main-sec main-sec"
+    "skill2 skill2 skill2";
+    background-color: aqua;
+    
+}
+.boll1{
+    grid-area:header;
+    background-color: blueviolet;
+ 
+}
+.boll4{
+    grid-area:footer;
+    background-color: orange;
+    
+
+
+}
+.boll3{
+    grid-area:main-sec;
+    background-color:plum;
+     
+}
+
+.boll2{
+    grid-area:skill2;
+    background-color: yellow;
+ 
+    
+}
+div:nth-chaild(2){
+    color:green;
+
+}
+.two :nth-child(2){
+    background-color: deeppink;
+    color: yellow;
+}
+
+.div:nth--child(2){
+    color:green;
+}
+a:link{
+    color: blue;
+    
+
+
+
+    

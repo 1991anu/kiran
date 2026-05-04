@@ -1,0 +1,17 @@
+.box:hover{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    box-shadow: 12px 12px 10px;
+
+}
+.para1{
+    text-shadow: 2px 2px 5px;
+    color:blue;
+    border-style:solid;
+    border-top-left-radius: 10px;
+    background-color: pink;
+    border-bottom-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    height: 50px;
+}

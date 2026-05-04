@@ -1,0 +1,87 @@
+.good{
+    background-color: yellowgreen;
+}
+
+
+    img{
+    height:300px;
+    width:300px;
+    margin-top: 10x;
+    
+    margin-left: 40px;
+    border-radius: 50px;
+}
+
+
+
+
+
+    .bb{
+    display: flex;
+    flex-direction: row;
+    margin-bottom:20px;
+    height: 400px;
+    width: 1200px;
+    background-color: lightpink;
+    border-radius: 30px;
+    margin-left: 40px;
+    
+    margin-top: 50px;
+    
+    
+}
+.lucky{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-bottom: 20px;
+    height: 400px;
+    width:1200px;
+    background-color: lightpink;
+    border-radius: 30px;
+    margin-left: 40px;
+    
+}
+.sri{
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    height:400px;
+    width: 1200px;
+    border-radius: 30px;
+    background-color: lightpink;
+    margin-left: 40px;
+    margin-top:30px;
+    margin-right:30px;
+
+}
+button{
+    background-color:orange;
+    border-radius: 50px;
+    height: 100x;
+    width: 100px;
+}
+.girl{
+    margin-left: 10px;
+    
+    
+
+}
+.siri{
+    margin-left: 10px;
+
+}
+.janu{
+    margin-left:30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.aa{
+    background-color: yellow;
+}
+h1{
+color:orange;
+text-align:center;
+}

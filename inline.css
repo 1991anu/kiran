@@ -1,0 +1,20 @@
+.display h1,p{
+    display: block;
+    height: 200px;
+    width:200px;
+    background-color: pink;
+}
+.block h2,span{
+    display: block;
+    height:40px;
+     width:700px;
+    background-color: orange;
+
+}
+.inline-block h3,a{
+    display: inline-block;
+    height:200px;
+    width:200px;
+    background-color:green;
+
+}

@@ -1,0 +1,94 @@
+
+ .tag{
+    height:200px;
+    width:250px;
+    
+}   
+.fruits{
+    display: flex;
+    height:200px;
+    
+    flex-direction: column;
+    gap:8px;
+    width:1000px;
+    background-color:green;
+    justify-content: center;
+    align-self: start;
+    align-items: center;
+    
+      
+    
+}
+.tag4{
+    background-color:yellow;
+    order:3
+}
+    .tag3{
+        background-color: brown;
+
+       
+      
+        order:2
+    }
+        .tag2{ 
+         background-color: blue;
+         order:1
+        }
+         
+         .tag1{
+            background-color: aqua;
+            order:-1 
+         }
+
+        .family{
+            display:flex;
+            flex-direction:column-reverse ;
+            align-content:center;
+            height:150px;
+            width:300px;
+            gap:10px;
+
+        }   
+.friends{
+    display: flex;
+    flex-direction:row-reverse;
+    align-content:center ;
+    height:250px;
+    width:600px;
+    gap:10px;
+
+
+}
+.banana2{
+    background-color: blue;
+    color:chartreuse;
+}
+  .banana3{
+    background-color: blueviolet;
+  } 
+    .banana4{
+      background-color: green;  
+    }
+    .banana1{
+        background-color:purple;
+    }
+    .banana0{
+        background-color:orange;
+    }
+h1{
+    color: green;
+}
+
+table,td,th{
+     text-align : center;
+     border:3px solid;
+     margin-bottom:10px;
+     background-color: yellow;
+}
+td{
+    padding-right: 200px;
+    
+}
+
+
+

@@ -1,0 +1,20 @@
+.one{
+    color: orange;
+}
+.anusha{
+    color: orange;
+}
+button:hover{
+    background-color: aquamarine;
+}
+imag{
+    width: 100%;
+    hight:500px;
+    text-align: center;
+    margin-left: 60px;
+    background-color: blueviolet;
+
+}
+button{
+    background-color: yellow;
+}
