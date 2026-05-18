@@ -3,13 +3,13 @@ h1{
 }
 button{
     background-color: palegreen;
-    color:blueviolet;
+    padding: 10px;
 
 }
 b{
     background-color: orange;
     
 }
-.bb{
+.aa{
     text-align: center;
 }

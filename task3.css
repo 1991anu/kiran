@@ -7,14 +7,18 @@
 button:hover{
     background-color: aquamarine;
 }
-imag{
-    width: 100%;
+img{
+    width: 70%;
     hight:500px;
     text-align: center;
     margin-left: 60px;
     background-color: blueviolet;
 
 }
-button{
+button:hover{
     background-color: yellow;
+    padding: 10px;
+}
+.aa{
+    text-align: center;
 }

@@ -2,9 +2,10 @@ h1{
     color:blue;
 }
 button:hover{
-    background-color: greenyellow; 
-    height: 100px;
-    width: 100px;
+    padding: 10px;
+     
+    
+    
     
     
 
@@ -13,8 +14,8 @@ b{
     color:orange;
 }
 img{
-    height:600px;
-    width: 1200px;
+    height:500px;
+    width: 70%;
     margin-left: 60px;
 
     

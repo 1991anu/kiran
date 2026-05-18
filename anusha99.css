@@ -1,0 +1,27 @@
+label{
+    color: brown;
+}
+input{
+    color: hotpink;
+     border-radius: 10px;
+    border-color: blue;
+}
+ul{
+    color: red;
+    list-style- type-none; 
+    width: 80px;
+    margin-left: 600px;
+    text-align: centers;
+}
+button{
+    color: blueviolet;
+    background-color: mediumspringgreen;
+padding: 15px;
+
+border-color: orange;
+}
+.one{
+    background-color:skyblue;
+    text-align: center;
+    height: 1000px;
+}

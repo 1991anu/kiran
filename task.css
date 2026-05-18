@@ -5,7 +5,7 @@
 }
 p{
     color:mediumvioletred;
-    text-align: left;
+    text-align: center;
 }
 b{
     color:orchid;
@@ -13,4 +13,12 @@ b{
 }
 button{
     background-color: violet;
+    padding: 10px;
+}
+img{
+    height:500px;
+    width:1000px;
+}
+.bb{
+    text-align: center;
 }
